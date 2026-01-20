@@ -1,7 +1,9 @@
 import os
 from urllib import parse
 
-HEADER = """# 📚 코딩테스트 문제 풀이 목록 """
+HEADER = """# 📚 코딩테스트 문제 풀이 목록
+
+"""
 
 def get_language(file_path):
     """파일 확장자로 언어 추출"""
