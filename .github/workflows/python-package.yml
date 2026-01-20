@@ -9,6 +9,7 @@ on:
     paths:
       - '백준/**'
       - '프로그래머스/**'
+      - 'SWEA/**'
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:
