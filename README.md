@@ -1,1 +1,40 @@
-coding Test
+# 📚 백준, 프로그래머스 문제 풀이 목록
+
+### 🚀 SWEA
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+### 🚀 D2
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+|1204. ［S／W 문제해결 기본］ 1일차 － 최빈수 구하기|Python|[링크](./SWEA/D2/1204.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%851%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%B9%88%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%851%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%B9%88%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.py)|
+### 🚀 D3
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+|1208. ［S／W 문제해결 기본］ 1일차 － Flatten|MD|[링크](./SWEA/D3/1208.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%851%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85Flatten/README.md)|
+|1213. ［S／W 문제해결 기본］ 3일차 － String|MD|[링크](./SWEA/D3/1213.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%853%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85String/README.md)|
+|5215. 햄버거 다이어트|MD|[링크](./SWEA/D3/5215.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8/README.md)|
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+|1271. 엄청난 부자2|Java|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902.java)|
+|2557. Hello World|Java|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.java)|
+### 🚀 Silver
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+|18115. 카드 놓기|MD|[링크](./%EB%B0%B1%EC%A4%80/Silver/18115.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%86%93%EA%B8%B0/README.md)|
+|1940. 주몽|MD|[링크](./%EB%B0%B1%EC%A4%80/Silver/1940.%E2%80%85%EC%A3%BC%EB%AA%BD/README.md)|
+|2003. 수들의 합 2|Java|[링크](./%EB%B0%B1%EC%A4%80/Silver/2003.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852/%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852.java)|
+|2167. 2차원 배열의 합|MD|[링크](./%EB%B0%B1%EC%A4%80/Silver/2167.%E2%80%852%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9/README.md)|
+|3085. 사탕 게임|Java|[링크](./%EB%B0%B1%EC%A4%80/Silver/3085.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EA%B2%8C%EC%9E%84/%EC%82%AC%ED%83%95%E2%80%85%EA%B2%8C%EC%9E%84.java)|
+|9375. 패션왕 신해빈|Python|[링크](./%EB%B0%B1%EC%A4%80/Silver/9375.%E2%80%85%ED%8C%A8%EC%85%98%EC%99%95%E2%80%85%EC%8B%A0%ED%95%B4%EB%B9%88/%ED%8C%A8%EC%85%98%EC%99%95%E2%80%85%EC%8B%A0%ED%95%B4%EB%B9%88.py)|
+## 📚 프로그래머스
+### 🚀 lv0
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+|120923. 연속된 수의 합|Java|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120923.%E2%80%85%EC%97%B0%EC%86%8D%EB%90%9C%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/%EC%97%B0%EC%86%8D%EB%90%9C%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9.java)|
+### 🚀 lv1
+| 문제번호 | 언어 | 링크 |
+| :--- | :---: | :--- |
+|1845. 폰켓몬|MD|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/1845.%E2%80%85%ED%8F%B0%EC%BC%93%EB%AA%AC/README.md)|
+|42576. 완주하지 못한 선수|MD|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42576.%E2%80%85%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%E2%80%85%EB%AA%BB%ED%95%9C%E2%80%85%EC%84%A0%EC%88%98/README.md)|
